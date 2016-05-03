@@ -1,5 +1,11 @@
 Find Me on http://budisuryana.website/
 
+# Installation
+- Rubah settingan di file .env sesuai konfigurasi database anda.
+- jalankan composer install
+- jalankan php artisan migrate
+- jalankan php artisan db:seed
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
